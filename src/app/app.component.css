@@ -1,0 +1,10 @@
+.root {
+    border: 5px solid gold;
+    border-radius: 9px;
+    padding: 9px;
+}
+
+li {
+    text-align: left
+}
+

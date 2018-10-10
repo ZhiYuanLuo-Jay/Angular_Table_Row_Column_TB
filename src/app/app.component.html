@@ -1,10 +1,77 @@
 <!--The content below is only a placeholder and can be replaced.-->
+<div class = "root">
 <div style="text-align:center">
   <h1>
-    Welcome to {{ title }}!
+    {{ title }}!
   </h1>
-  <img width="300" alt="Angular Logo" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNTAgMjUwIj4KICAgIDxwYXRoIGZpbGw9IiNERDAwMzEiIGQ9Ik0xMjUgMzBMMzEuOSA2My4ybDE0LjIgMTIzLjFMMTI1IDIzMGw3OC45LTQzLjcgMTQuMi0xMjMuMXoiIC8+CiAgICA8cGF0aCBmaWxsPSIjQzMwMDJGIiBkPSJNMTI1IDMwdjIyLjItLjFWMjMwbDc4LjktNDMuNyAxNC4yLTEyMy4xTDEyNSAzMHoiIC8+CiAgICA8cGF0aCAgZmlsbD0iI0ZGRkZGRiIgZD0iTTEyNSA1Mi4xTDY2LjggMTgyLjZoMjEuN2wxMS43LTI5LjJoNDkuNGwxMS43IDI5LjJIMTgzTDEyNSA1Mi4xem0xNyA4My4zaC0zNGwxNy00MC45IDE3IDQwLjl6IiAvPgogIDwvc3ZnPg==">
+
+  <!-- <h3> -->
+    <!-- <input type="text" [value]="first_name" /> -->
+    <!-- <ul>
+      <li *ngFor="let s of snacks" (click)="onSelect(s)">{{s}}</li>
+    </ul> -->
+  <!-- </h3> -->
+
+  <p style="color: goldenrod">Data Selected: {{ adjArr | json }}</p>
+  
+  <table class="table table-bordered">
+    <thead class="thead-light">
+      <tr>
+        <th></th>
+        <th (click)="onItemNoClick()">Item No</th>
+        <th (click)="onDescClick()">Description</th>
+        <th (click)="onSterlingClick()">Sterling</th> 
+        <th (click)="onEuroClick()">Euro</th> 
+        <th (click)="onOtherClick()">Other Currencies</th> 
+      </tr>
+    </thead>
+
+    <tbody>
+        <!-- <router-outlet></router-outlet> -->
+        <tr *ngFor="let el of jData" >     
+          <td *ngIf="isString(el)" (click)="onRow(el)"> <button>^_^</button></td>     
+          <td *ngIf="isString(el)" (click)="onSelect(el[0])">{{el[0]}}</td>
+          <td *ngIf="isString(el)" (click)="onSelect(el[2].text)" style="text-align:left">{{el[2].text}}</td>
+          <td *ngIf="isString(el)" (click)="onSelect(el[5].id)">{{el[5].id}}</td>
+          <td *ngIf="isString(el)" (click)="onSelect(el[6].id)">{{el[6].id}}</td>
+          <td *ngIf="isString(el)" (click)="onSelect(el[7])">{{el[7]}}</td>
+        </tr>
+    </tbody>
+  </table>
+
+    <!-- <p>JSON DATA: {{jData}}</p> -->
 </div>
+
+
+
+<form style="border: 5px solid lightgreen; padding: 10px" (submit)="onTest()">
+  <p>Upper Pocket: {{ zylPocket.upperOne | json }}</p>
+  <input type="text" name="zylPocket.upperOne" [(ngModel)]="zylPocket.upperOne" />
+
+  <p>Lower Pocket: {{ zylPocket.lowerOne | json }}</p>
+  <input type="text" name="zylPocket.lowerOne" [(ngModel)]="zylPocket.lowerOne" />
+  
+  <br><br>
+  <input type="submit" value="Enter Pocket Data" />
+</form>
+
+<!-- <div style="border: 5px solid skyblue; padding: 10px; margin-top: 20px">
+  <button (click)="onButtonClick()" >Click me!</button>
+  <br>
+  <button (click)="onButtonClickParam(5)">Click me 5!</button>
+  <br>
+  <button (click)="onButtonClickParams(5, 'hello')">Click me 5 & hello!</button>
+  <br>
+  <button (click)="onButtonClickEvent($event)">Click me with $event!</button>
+</div> -->
+
+<div style="border: 5px solid lightcoral; padding: 10px; margin-top: 20px">
+  <input type='file' (change)="fileChanged($event)">
+</div>
+
+<br>
+<br>
+
 <h2>Here are some links to help you start: </h2>
 <ul>
   <li>
@@ -18,4 +85,9 @@
   </li>
 </ul>
 
-<router-outlet></router-outlet>
+  <router-outlet></router-outlet>
+</div>
+
+
+
+

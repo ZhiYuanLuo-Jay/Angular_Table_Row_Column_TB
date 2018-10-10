@@ -1,0 +1,1930 @@
+[
+  [
+    {
+      "text": "FORM BT: MONTHLY / QUARTERLY BALANCE SHEET INFORMATION",
+      "size": 14.0,
+      "row_idx": 1,
+      "col_idx": 1,
+      "coordinate": "A1",
+      "merged_range": "A1:J1",
+      "rowspan": 1,
+      "colspan": 10,
+      "bold": true,
+      "alignment": "center"
+    },
+    "null",
+    "null",
+    "null",
+    "null",
+    "null",
+    "null",
+    "null",
+    "null",
+    "null",
+    "null"
+  ],
+  [
+    "null",
+    "null",
+    "null",
+    "null",
+    "null",
+    "null",
+    "null",
+    "null",
+    "null",
+    "null",
+    "null"
+  ],
+  [
+    {
+      "text": "Liabilities",
+      "size": 12.0,
+      "row_idx": 3,
+      "col_idx": 1,
+      "coordinate": "A3",
+      "merged_range": "A3:J4",
+      "rowspan": 2,
+      "colspan": 10,
+      "bold": true,
+      "underline": "single",
+      "valignment": "center",
+      "alignment": "center"
+    },
+    "null",
+    "null",
+    "null",
+    "null",
+    "null",
+    "null",
+    "null",
+    "null",
+    "null",
+    "null"
+  ],
+  [
+    "null",
+    "null",
+    "null",
+    "null",
+    "null",
+    "null",
+    "null",
+    "null",
+    "null",
+    "null",
+    "null"
+  ],
+  [
+    "null",
+    "null",
+    "null",
+    "null",
+    "null",
+    "null",
+    {
+      "text": "\u00a3000s",
+      "size": 10.0,
+      "row_idx": 5,
+      "col_idx": 7,
+      "coordinate": "G5",
+      "bold": true,
+      "alignment": "center",
+      "borderbottom": "thin"
+    },
+    "null",
+    "null",
+    "null",
+    "null"
+  ],
+  [
+    {
+      "text": "Item No",
+      "size": 8.0,
+      "row_idx": 6,
+      "col_idx": 1,
+      "coordinate": "A6",
+      "bold": true
+    },
+    "null",
+    "null",
+    "null",
+    "null",
+    {
+      "text": "Sterling",
+      "size": 9.0,
+      "row_idx": 6,
+      "col_idx": 6,
+      "coordinate": "F6",
+      "bold": true,
+      "alignment": "center"
+    },
+    {
+      "text": "Euro",
+      "size": 9.0,
+      "row_idx": 6,
+      "col_idx": 7,
+      "coordinate": "G6",
+      "bold": true,
+      "alignment": "center"
+    },
+    {
+      "text": "Other currencies",
+      "size": 9.0,
+      "row_idx": 6,
+      "col_idx": 8,
+      "coordinate": "H6",
+      "bold": true,
+      "alignment": "center"
+    },
+    {
+      "text": "Item no",
+      "size": 8.0,
+      "row_idx": 6,
+      "col_idx": 9,
+      "coordinate": "I6",
+      "bold": true,
+      "alignment": "center"
+    },
+    "null",
+    "null"
+  ],
+  [
+    "null",
+    "null",
+    "null",
+    "null",
+    "null",
+    "null",
+    "null",
+    "null",
+    "null",
+    "null",
+    "null"
+  ],
+  [
+    {
+      "text": 1,
+      "size": 8.0,
+      "row_idx": 8,
+      "col_idx": 1,
+      "coordinate": "A8",
+      "bold": true,
+      "alignment": "left"
+    },
+    {
+      "text": "Notes in circulation",
+      "size": 8.0,
+      "row_idx": 8,
+      "col_idx": 2,
+      "coordinate": "B8",
+      "bold": true
+    },
+    "null",
+    "null",
+    {
+      "text": "  ",
+      "size": 8.0,
+      "row_idx": 8,
+      "col_idx": 5,
+      "coordinate": "E8",
+      "bold": true
+    },
+    {
+      "id": "BT\u00a31",
+      "size": 10.0,
+      "row_idx": 8,
+      "col_idx": 6,
+      "coordinate": "F8",
+      "bordertop": "medium",
+      "borderbottom": "medium",
+      "borderleft": "medium"
+    },
+    {
+      "id": "BTE1",
+      "size": 10.0,
+      "row_idx": 8,
+      "col_idx": 7,
+      "coordinate": "G8",
+      "bordertop": "medium",
+      "borderbottom": "medium",
+      "borderleft": "medium",
+      "borderright": "medium"
+    },
+    "null",
+    {
+      "text": 1,
+      "size": 8.0,
+      "row_idx": 8,
+      "col_idx": 9,
+      "coordinate": "I8",
+      "bold": true,
+      "alignment": "left"
+    },
+    "null",
+    "null"
+  ],
+  [
+    "null",
+    "null",
+    "null",
+    "null",
+    {
+      "text": "  ",
+      "size": 8.0,
+      "row_idx": 9,
+      "col_idx": 5,
+      "coordinate": "E9",
+      "bold": true
+    },
+    "null",
+    "null",
+    "null",
+    "null",
+    "null",
+    "null"
+  ],
+  [
+    {
+      "text": 2,
+      "size": 8.0,
+      "row_idx": 10,
+      "col_idx": 1,
+      "coordinate": "A10",
+      "bold": true,
+      "alignment": "left"
+    },
+    {
+      "text": "Sight deposits",
+      "size": 8.0,
+      "row_idx": 10,
+      "col_idx": 2,
+      "coordinate": "B10",
+      "bold": true
+    },
+    "null",
+    "null",
+    {
+      "text": "  ",
+      "size": 8.0,
+      "row_idx": 10,
+      "col_idx": 5,
+      "coordinate": "E10",
+      "bold": true
+    },
+    {
+      "id": "BT\u00a32",
+      "size": 10.0,
+      "row_idx": 10,
+      "col_idx": 6,
+      "coordinate": "F10",
+      "bordertop": "medium",
+      "borderbottom": "medium",
+      "borderleft": "medium",
+      "borderright": "medium"
+    },
+    {
+      "id": "BTE2",
+      "size": 10.0,
+      "row_idx": 10,
+      "col_idx": 7,
+      "coordinate": "G10",
+      "bordertop": "medium",
+      "borderbottom": "medium",
+      "borderleft": "medium",
+      "borderright": "medium"
+    },
+    {
+      "id": "BTC2",
+      "size": 10.0,
+      "row_idx": 10,
+      "col_idx": 8,
+      "coordinate": "H10",
+      "bordertop": "medium",
+      "borderbottom": "medium",
+      "borderleft": "medium",
+      "borderright": "medium"
+    },
+    {
+      "text": 2,
+      "size": 8.0,
+      "row_idx": 10,
+      "col_idx": 9,
+      "coordinate": "I10",
+      "bold": true,
+      "alignment": "left"
+    },
+    "null",
+    "null"
+  ],
+  [
+    {
+      "text": "2A",
+      "size": 8.0,
+      "row_idx": 11,
+      "col_idx": 1,
+      "coordinate": "A11",
+      "alignment": "left"
+    },
+    "null",
+    {
+      "text": "Bank of England",
+      "size": 8.0,
+      "row_idx": 11,
+      "col_idx": 3,
+      "coordinate": "C11"
+    },
+    "null",
+    {
+      "text": "  ",
+      "size": 8.0,
+      "row_idx": 11,
+      "col_idx": 5,
+      "coordinate": "E11",
+      "bold": true
+    },
+    {
+      "id": "BT\u00a32A",
+      "size": 10.0,
+      "row_idx": 11,
+      "col_idx": 6,
+      "coordinate": "F11",
+      "borderbottom": "thin",
+      "borderleft": "thin",
+      "borderright": "thin"
+    },
+    {
+      "id": "BTE2A",
+      "size": 10.0,
+      "row_idx": 11,
+      "col_idx": 7,
+      "coordinate": "G11",
+      "borderbottom": "thin",
+      "borderleft": "thin",
+      "borderright": "thin"
+    },
+    {
+      "id": "BTC2A",
+      "size": 10.0,
+      "row_idx": 11,
+      "col_idx": 8,
+      "coordinate": "H11",
+      "borderbottom": "thin",
+      "borderleft": "thin",
+      "borderright": "thin"
+    },
+    {
+      "text": "2A",
+      "size": 8.0,
+      "row_idx": 11,
+      "col_idx": 9,
+      "coordinate": "I11",
+      "alignment": "left"
+    },
+    "null",
+    "null"
+  ],
+  [
+    {
+      "text": "2B",
+      "size": 8.0,
+      "row_idx": 12,
+      "col_idx": 1,
+      "coordinate": "A12",
+      "alignment": "left"
+    },
+    "null",
+    {
+      "text": "UK banks other than Bank of England",
+      "size": 8.0,
+      "row_idx": 12,
+      "col_idx": 3,
+      "coordinate": "C12"
+    },
+    "null",
+    {
+      "text": "  ",
+      "size": 8.0,
+      "row_idx": 12,
+      "col_idx": 5,
+      "coordinate": "E12",
+      "bold": true
+    },
+    {
+      "id": "BT\u00a32B",
+      "size": 10.0,
+      "row_idx": 12,
+      "col_idx": 6,
+      "coordinate": "F12",
+      "valignment": "top",
+      "bordertop": "thin",
+      "borderbottom": "thin",
+      "borderleft": "thin",
+      "borderright": "thin"
+    },
+    {
+      "id": "BTE2B",
+      "size": 10.0,
+      "row_idx": 12,
+      "col_idx": 7,
+      "coordinate": "G12",
+      "bordertop": "thin",
+      "borderleft": "thin"
+    },
+    {
+      "id": "BTC2B",
+      "size": 10.0,
+      "row_idx": 12,
+      "col_idx": 8,
+      "coordinate": "H12",
+      "bordertop": "thin",
+      "borderbottom": "thin",
+      "borderleft": "thin",
+      "borderright": "thin"
+    },
+    {
+      "text": "2B",
+      "size": 8.0,
+      "row_idx": 12,
+      "col_idx": 9,
+      "coordinate": "I12",
+      "alignment": "left"
+    },
+    "null",
+    "null"
+  ],
+  [
+    {
+      "text": "2BG",
+      "size": 8.0,
+      "row_idx": 13,
+      "col_idx": 1,
+      "coordinate": "A13",
+      "alignment": "left"
+    },
+    "null",
+    {
+      "text": "of which: intra-group",
+      "size": 8.0,
+      "row_idx": 13,
+      "col_idx": 3,
+      "coordinate": "C13",
+      "merged_range": "C13:D13",
+      "rowspan": 1,
+      "colspan": 2,
+      "italics": true,
+      "alignment": "left",
+      "indent": 1.0
+    },
+    "null",
+    "null",
+    {
+      "id": "BT\u00a32BG",
+      "size": 10.0,
+      "row_idx": 13,
+      "col_idx": 6,
+      "coordinate": "F13",
+      "valignment": "top",
+      "bordertop": "thin",
+      "borderbottom": "thin",
+      "borderleft": "thin",
+      "borderright": "thin"
+    },
+    {
+      "id": "BTE2BG",
+      "size": 10.0,
+      "row_idx": 13,
+      "col_idx": 7,
+      "coordinate": "G13",
+      "bordertop": "thin",
+      "borderleft": "thin"
+    },
+    {
+      "id": "BTC2BG",
+      "size": 10.0,
+      "row_idx": 13,
+      "col_idx": 8,
+      "coordinate": "H13",
+      "bordertop": "thin",
+      "borderbottom": "thin",
+      "borderleft": "thin",
+      "borderright": "thin"
+    },
+    {
+      "text": "2BG",
+      "size": 8.0,
+      "row_idx": 13,
+      "col_idx": 9,
+      "coordinate": "I13",
+      "alignment": "left"
+    },
+    "null",
+    "null"
+  ],
+  [
+    {
+      "text": "2C",
+      "size": 8.0,
+      "row_idx": 14,
+      "col_idx": 1,
+      "coordinate": "A14",
+      "alignment": "left"
+    },
+    "null",
+    {
+      "text": "Building societies in the UK",
+      "size": 8.0,
+      "row_idx": 14,
+      "col_idx": 3,
+      "coordinate": "C14"
+    },
+    "null",
+    {
+      "text": "  ",
+      "size": 8.0,
+      "row_idx": 14,
+      "col_idx": 5,
+      "coordinate": "E14",
+      "bold": true
+    },
+    {
+      "id": "BT\u00a32C",
+      "size": 10.0,
+      "row_idx": 14,
+      "col_idx": 6,
+      "coordinate": "F14",
+      "valignment": "top",
+      "bordertop": "thin",
+      "borderbottom": "thin",
+      "borderleft": "thin",
+      "borderright": "thin"
+    },
+    {
+      "id": "BTE2C",
+      "size": 10.0,
+      "row_idx": 14,
+      "col_idx": 7,
+      "coordinate": "G14",
+      "bordertop": "thin",
+      "borderbottom": "thin",
+      "borderleft": "thin",
+      "borderright": "thin"
+    },
+    {
+      "id": "BTC2C",
+      "size": 10.0,
+      "row_idx": 14,
+      "col_idx": 8,
+      "coordinate": "H14",
+      "bordertop": "thin",
+      "borderbottom": "thin",
+      "borderleft": "thin",
+      "borderright": "thin"
+    },
+    {
+      "text": "2C",
+      "size": 8.0,
+      "row_idx": 14,
+      "col_idx": 9,
+      "coordinate": "I14",
+      "alignment": "left"
+    },
+    "null",
+    "null"
+  ],
+  [
+    {
+      "text": "2D",
+      "size": 8.0,
+      "row_idx": 15,
+      "col_idx": 1,
+      "coordinate": "A15",
+      "alignment": "left"
+    },
+    "null",
+    {
+      "text": "Monetary financial institutions in the UK other than banks and building societies",
+      "size": 8.0,
+      "row_idx": 15,
+      "col_idx": 3,
+      "coordinate": "C15"
+    },
+    "null",
+    {
+      "text": "  ",
+      "size": 8.0,
+      "row_idx": 15,
+      "col_idx": 5,
+      "coordinate": "E15",
+      "bold": true
+    },
+    {
+      "id": "BT\u00a32D",
+      "size": 10.0,
+      "row_idx": 15,
+      "col_idx": 6,
+      "coordinate": "F15",
+      "valignment": "top",
+      "bordertop": "thin",
+      "borderbottom": "thin",
+      "borderleft": "thin",
+      "borderright": "thin"
+    },
+    {
+      "id": "BTE2D",
+      "size": 10.0,
+      "row_idx": 15,
+      "col_idx": 7,
+      "coordinate": "G15",
+      "bordertop": "thin",
+      "borderbottom": "thin",
+      "borderleft": "thin",
+      "borderright": "thin"
+    },
+    {
+      "id": "BTC2D",
+      "size": 10.0,
+      "row_idx": 15,
+      "col_idx": 8,
+      "coordinate": "H15",
+      "bordertop": "thin",
+      "borderbottom": "thin",
+      "borderleft": "thin",
+      "borderright": "thin"
+    },
+    {
+      "text": "2D",
+      "size": 8.0,
+      "row_idx": 15,
+      "col_idx": 9,
+      "coordinate": "I15",
+      "alignment": "left"
+    },
+    "null",
+    "null"
+  ],
+  [
+    {
+      "text": "2E",
+      "size": 8.0,
+      "row_idx": 16,
+      "col_idx": 1,
+      "coordinate": "A16",
+      "alignment": "left"
+    },
+    "null",
+    {
+      "text": "UK central government",
+      "size": 8.0,
+      "row_idx": 16,
+      "col_idx": 3,
+      "coordinate": "C16"
+    },
+    "null",
+    {
+      "text": "  ",
+      "size": 8.0,
+      "row_idx": 16,
+      "col_idx": 5,
+      "coordinate": "E16",
+      "bold": true
+    },
+    {
+      "id": "BT\u00a32E",
+      "size": 10.0,
+      "row_idx": 16,
+      "col_idx": 6,
+      "coordinate": "F16",
+      "valignment": "top",
+      "bordertop": "thin",
+      "borderbottom": "thin",
+      "borderleft": "thin",
+      "borderright": "thin"
+    },
+    {
+      "id": "BTE2E",
+      "size": 10.0,
+      "row_idx": 16,
+      "col_idx": 7,
+      "coordinate": "G16",
+      "bordertop": "thin",
+      "borderbottom": "thin",
+      "borderleft": "thin",
+      "borderright": "thin"
+    },
+    {
+      "id": "BTC2E",
+      "size": 10.0,
+      "row_idx": 16,
+      "col_idx": 8,
+      "coordinate": "H16",
+      "bordertop": "thin",
+      "borderbottom": "thin",
+      "borderleft": "thin",
+      "borderright": "thin"
+    },
+    {
+      "text": "2E",
+      "size": 8.0,
+      "row_idx": 16,
+      "col_idx": 9,
+      "coordinate": "I16",
+      "alignment": "left"
+    },
+    "null",
+    "null"
+  ],
+  [
+    {
+      "text": "2F",
+      "size": 8.0,
+      "row_idx": 17,
+      "col_idx": 1,
+      "coordinate": "A17",
+      "alignment": "left"
+    },
+    "null",
+    {
+      "text": "UK local authorites",
+      "size": 8.0,
+      "row_idx": 17,
+      "col_idx": 3,
+      "coordinate": "C17"
+    },
+    "null",
+    {
+      "text": "  ",
+      "size": 8.0,
+      "row_idx": 17,
+      "col_idx": 5,
+      "coordinate": "E17",
+      "bold": true
+    },
+    {
+      "id": "BT\u00a32F",
+      "size": 10.0,
+      "row_idx": 17,
+      "col_idx": 6,
+      "coordinate": "F17",
+      "valignment": "top",
+      "bordertop": "thin",
+      "borderbottom": "thin",
+      "borderleft": "thin",
+      "borderright": "thin"
+    },
+    {
+      "id": "BTE2F",
+      "size": 10.0,
+      "row_idx": 17,
+      "col_idx": 7,
+      "coordinate": "G17",
+      "bordertop": "thin",
+      "borderbottom": "thin",
+      "borderleft": "thin",
+      "borderright": "thin"
+    },
+    {
+      "id": "BTC2F",
+      "size": 10.0,
+      "row_idx": 17,
+      "col_idx": 8,
+      "coordinate": "H17",
+      "bordertop": "thin",
+      "borderbottom": "thin",
+      "borderleft": "thin",
+      "borderright": "thin"
+    },
+    {
+      "text": "2F",
+      "size": 8.0,
+      "row_idx": 17,
+      "col_idx": 9,
+      "coordinate": "I17",
+      "alignment": "left"
+    },
+    "null",
+    "null"
+  ],
+  [
+    {
+      "text": "2G",
+      "size": 8.0,
+      "row_idx": 18,
+      "col_idx": 1,
+      "coordinate": "A18",
+      "alignment": "left"
+    },
+    "null",
+    {
+      "text": "UK public cooperations",
+      "size": 8.0,
+      "row_idx": 18,
+      "col_idx": 3,
+      "coordinate": "C18"
+    },
+    "null",
+    {
+      "text": "  ",
+      "size": 8.0,
+      "row_idx": 18,
+      "col_idx": 5,
+      "coordinate": "E18",
+      "bold": true
+    },
+    {
+      "id": "BT\u00a32G",
+      "size": 10.0,
+      "row_idx": 18,
+      "col_idx": 6,
+      "coordinate": "F18",
+      "valignment": "top",
+      "bordertop": "thin",
+      "borderbottom": "thin",
+      "borderleft": "thin",
+      "borderright": "thin"
+    },
+    {
+      "id": "BTE2G",
+      "size": 10.0,
+      "row_idx": 18,
+      "col_idx": 7,
+      "coordinate": "G18",
+      "bordertop": "thin",
+      "borderbottom": "thin",
+      "borderleft": "thin",
+      "borderright": "thin"
+    },
+    {
+      "id": "BTC2G",
+      "size": 10.0,
+      "row_idx": 18,
+      "col_idx": 8,
+      "coordinate": "H18",
+      "bordertop": "thin",
+      "borderbottom": "thin",
+      "borderleft": "thin",
+      "borderright": "thin"
+    },
+    {
+      "text": "2G",
+      "size": 8.0,
+      "row_idx": 18,
+      "col_idx": 9,
+      "coordinate": "I18",
+      "alignment": "left"
+    },
+    "null",
+    "null"
+  ],
+  [
+    {
+      "text": "2H",
+      "size": 8.0,
+      "row_idx": 19,
+      "col_idx": 1,
+      "coordinate": "A19",
+      "alignment": "left"
+    },
+    "null",
+    {
+      "text": "Other UK residents",
+      "size": 8.0,
+      "row_idx": 19,
+      "col_idx": 3,
+      "coordinate": "C19"
+    },
+    "null",
+    {
+      "text": " ",
+      "size": 11.0,
+      "row_idx": 19,
+      "col_idx": 5,
+      "coordinate": "E19"
+    },
+    {
+      "id": "BT\u00a32H",
+      "size": 10.0,
+      "row_idx": 19,
+      "col_idx": 6,
+      "coordinate": "F19",
+      "valignment": "top",
+      "bordertop": "thin",
+      "borderbottom": "thin",
+      "borderleft": "thin",
+      "borderright": "thin"
+    },
+    {
+      "id": "BTE2H",
+      "size": 10.0,
+      "row_idx": 19,
+      "col_idx": 7,
+      "coordinate": "G19",
+      "bordertop": "thin",
+      "borderbottom": "thin",
+      "borderleft": "thin",
+      "borderright": "thin"
+    },
+    {
+      "id": "BTC2H",
+      "size": 10.0,
+      "row_idx": 19,
+      "col_idx": 8,
+      "coordinate": "H19",
+      "bordertop": "thin",
+      "borderbottom": "thin",
+      "borderleft": "thin",
+      "borderright": "thin"
+    },
+    {
+      "text": "2H",
+      "size": 8.0,
+      "row_idx": 19,
+      "col_idx": 9,
+      "coordinate": "I19",
+      "alignment": "left"
+    },
+    "null",
+    "null"
+  ],
+  [
+    {
+      "text": "2J",
+      "size": 8.0,
+      "row_idx": 20,
+      "col_idx": 1,
+      "coordinate": "A20",
+      "alignment": "left"
+    },
+    "null",
+    {
+      "text": "Non-residents ",
+      "size": 8.0,
+      "row_idx": 20,
+      "col_idx": 3,
+      "coordinate": "C20"
+    },
+    "null",
+    {
+      "text": " ",
+      "size": 11.0,
+      "row_idx": 20,
+      "col_idx": 5,
+      "coordinate": "E20"
+    },
+    {
+      "id": "BT\u00a32J",
+      "size": 10.0,
+      "row_idx": 20,
+      "col_idx": 6,
+      "coordinate": "F20",
+      "valignment": "top",
+      "bordertop": "thin",
+      "borderbottom": "thin",
+      "borderleft": "thin",
+      "borderright": "thin"
+    },
+    {
+      "id": "BTE2J",
+      "size": 10.0,
+      "row_idx": 20,
+      "col_idx": 7,
+      "coordinate": "G20",
+      "bordertop": "thin",
+      "borderbottom": "thin",
+      "borderleft": "thin",
+      "borderright": "thin"
+    },
+    {
+      "id": "BTC2J",
+      "size": 10.0,
+      "row_idx": 20,
+      "col_idx": 8,
+      "coordinate": "H20",
+      "bordertop": "thin",
+      "borderbottom": "thin",
+      "borderleft": "thin",
+      "borderright": "thin"
+    },
+    {
+      "text": "2J",
+      "size": 8.0,
+      "row_idx": 20,
+      "col_idx": 9,
+      "coordinate": "I20",
+      "alignment": "left"
+    },
+    "null",
+    "null"
+  ],
+  [
+    "null",
+    "null",
+    "null",
+    "null",
+    "null",
+    "null",
+    "null",
+    "null",
+    "null",
+    "null",
+    "null"
+  ],
+  [
+    {
+      "text": 3,
+      "size": 8.0,
+      "row_idx": 22,
+      "col_idx": 1,
+      "coordinate": "A22",
+      "bold": true,
+      "alignment": "left"
+    },
+    {
+      "text": "Time Deposits",
+      "size": 8.0,
+      "row_idx": 22,
+      "col_idx": 2,
+      "coordinate": "B22",
+      "bold": true
+    },
+    "null",
+    "null",
+    {
+      "text": " ",
+      "size": 8.0,
+      "row_idx": 22,
+      "col_idx": 5,
+      "coordinate": "E22",
+      "bold": true
+    },
+    {
+      "id": "BT\u00a33",
+      "size": 10.0,
+      "row_idx": 22,
+      "col_idx": 6,
+      "coordinate": "F22",
+      "bordertop": "medium",
+      "borderbottom": "medium",
+      "borderleft": "medium",
+      "borderright": "medium"
+    },
+    {
+      "id": "BTE3",
+      "size": 10.0,
+      "row_idx": 22,
+      "col_idx": 7,
+      "coordinate": "G22",
+      "bordertop": "medium",
+      "borderbottom": "medium",
+      "borderleft": "medium",
+      "borderright": "medium"
+    },
+    {
+      "id": "BTC3",
+      "size": 10.0,
+      "row_idx": 22,
+      "col_idx": 8,
+      "coordinate": "H22",
+      "bordertop": "medium",
+      "borderbottom": "medium",
+      "borderleft": "medium",
+      "borderright": "medium"
+    },
+    {
+      "text": 3,
+      "size": 8.0,
+      "row_idx": 22,
+      "col_idx": 9,
+      "coordinate": "I22",
+      "alignment": "left"
+    },
+    "null",
+    "null"
+  ],
+  [
+    {
+      "text": "3A",
+      "size": 8.0,
+      "row_idx": 23,
+      "col_idx": 1,
+      "coordinate": "A23",
+      "alignment": "left"
+    },
+    "null",
+    {
+      "text": "Bank of England",
+      "size": 8.0,
+      "row_idx": 23,
+      "col_idx": 3,
+      "coordinate": "C23"
+    },
+    "null",
+    {
+      "text": " ",
+      "size": 8.0,
+      "row_idx": 23,
+      "col_idx": 5,
+      "coordinate": "E23",
+      "bold": true
+    },
+    {
+      "id": "BT\u00a33A",
+      "size": 10.0,
+      "row_idx": 23,
+      "col_idx": 6,
+      "coordinate": "F23",
+      "valignment": "top",
+      "bordertop": "thin",
+      "borderbottom": "thin",
+      "borderleft": "thin",
+      "borderright": "thin"
+    },
+    {
+      "id": "BTE3A",
+      "size": 10.0,
+      "row_idx": 23,
+      "col_idx": 7,
+      "coordinate": "G23",
+      "bordertop": "thin",
+      "borderbottom": "thin",
+      "borderleft": "thin",
+      "borderright": "thin"
+    },
+    {
+      "id": "BTC3A",
+      "size": 10.0,
+      "row_idx": 23,
+      "col_idx": 8,
+      "coordinate": "H23",
+      "bordertop": "thin",
+      "borderbottom": "thin",
+      "borderleft": "thin",
+      "borderright": "thin"
+    },
+    {
+      "text": "3A",
+      "size": 8.0,
+      "row_idx": 23,
+      "col_idx": 9,
+      "coordinate": "I23",
+      "alignment": "left"
+    },
+    "null",
+    "null"
+  ],
+  [
+    {
+      "text": "3B",
+      "size": 8.0,
+      "row_idx": 24,
+      "col_idx": 1,
+      "coordinate": "A24",
+      "alignment": "left"
+    },
+    "null",
+    {
+      "text": "UK banks other than Bank of England",
+      "size": 8.0,
+      "row_idx": 24,
+      "col_idx": 3,
+      "coordinate": "C24"
+    },
+    "null",
+    {
+      "text": " ",
+      "size": 8.0,
+      "row_idx": 24,
+      "col_idx": 5,
+      "coordinate": "E24",
+      "bold": true
+    },
+    {
+      "id": "BT\u00a33B",
+      "size": 10.0,
+      "row_idx": 24,
+      "col_idx": 6,
+      "coordinate": "F24",
+      "valignment": "top",
+      "bordertop": "thin",
+      "borderbottom": "thin",
+      "borderleft": "thin",
+      "borderright": "thin"
+    },
+    {
+      "id": "BTE3B",
+      "size": 10.0,
+      "row_idx": 24,
+      "col_idx": 7,
+      "coordinate": "G24",
+      "bordertop": "thin",
+      "borderbottom": "thin",
+      "borderleft": "thin",
+      "borderright": "thin"
+    },
+    {
+      "id": "BTC3B",
+      "size": 10.0,
+      "row_idx": 24,
+      "col_idx": 8,
+      "coordinate": "H24",
+      "bordertop": "thin",
+      "borderbottom": "thin",
+      "borderleft": "thin",
+      "borderright": "thin"
+    },
+    {
+      "text": "3B",
+      "size": 8.0,
+      "row_idx": 24,
+      "col_idx": 9,
+      "coordinate": "I24",
+      "alignment": "left"
+    },
+    "null",
+    "null"
+  ],
+  [
+    {
+      "text": "3BG",
+      "size": 8.0,
+      "row_idx": 25,
+      "col_idx": 1,
+      "coordinate": "A25",
+      "alignment": "left"
+    },
+    "null",
+    {
+      "text": "of which: intra-group",
+      "size": 8.0,
+      "row_idx": 25,
+      "col_idx": 3,
+      "coordinate": "C25",
+      "italics": true,
+      "alignment": "left",
+      "indent": 1.0
+    },
+    "null",
+    "null",
+    {
+      "id": "BT\u00a33BG",
+      "size": 10.0,
+      "row_idx": 25,
+      "col_idx": 6,
+      "coordinate": "F25",
+      "bordertop": "thin",
+      "borderbottom": "thin",
+      "borderleft": "thin",
+      "borderright": "thin"
+    },
+    {
+      "id": "BTE3BG",
+      "size": 10.0,
+      "row_idx": 25,
+      "col_idx": 7,
+      "coordinate": "G25",
+      "bordertop": "thin",
+      "borderbottom": "thin",
+      "borderleft": "thin",
+      "borderright": "thin"
+    },
+    {
+      "id": "BTC3BG",
+      "size": 10.0,
+      "row_idx": 25,
+      "col_idx": 8,
+      "coordinate": "H25",
+      "bordertop": "thin",
+      "borderbottom": "thin",
+      "borderleft": "thin",
+      "borderright": "thin"
+    },
+    {
+      "text": "3BG",
+      "size": 8.0,
+      "row_idx": 25,
+      "col_idx": 9,
+      "coordinate": "I25",
+      "alignment": "left"
+    },
+    "null",
+    "null"
+  ],
+  [
+    {
+      "text": "3C",
+      "size": 8.0,
+      "row_idx": 26,
+      "col_idx": 1,
+      "coordinate": "A26",
+      "alignment": "left"
+    },
+    "null",
+    {
+      "text": "Building societies in the UK",
+      "size": 8.0,
+      "row_idx": 26,
+      "col_idx": 3,
+      "coordinate": "C26"
+    },
+    "null",
+    {
+      "text": " ",
+      "size": 8.0,
+      "row_idx": 26,
+      "col_idx": 5,
+      "coordinate": "E26",
+      "bold": true
+    },
+    {
+      "id": "BT\u00a33C",
+      "size": 10.0,
+      "row_idx": 26,
+      "col_idx": 6,
+      "coordinate": "F26",
+      "valignment": "top",
+      "bordertop": "thin",
+      "borderbottom": "thin",
+      "borderleft": "thin",
+      "borderright": "thin"
+    },
+    {
+      "id": "BTE3C",
+      "size": 10.0,
+      "row_idx": 26,
+      "col_idx": 7,
+      "coordinate": "G26",
+      "bordertop": "thin",
+      "borderbottom": "thin",
+      "borderleft": "thin",
+      "borderright": "thin"
+    },
+    {
+      "id": "BTC3C",
+      "size": 10.0,
+      "row_idx": 26,
+      "col_idx": 8,
+      "coordinate": "H26",
+      "bordertop": "thin",
+      "borderbottom": "thin",
+      "borderleft": "thin",
+      "borderright": "thin"
+    },
+    {
+      "text": "3C",
+      "size": 8.0,
+      "row_idx": 26,
+      "col_idx": 9,
+      "coordinate": "I26",
+      "alignment": "left"
+    },
+    "null",
+    "null"
+  ],
+  [
+    {
+      "text": "3D",
+      "size": 8.0,
+      "row_idx": 27,
+      "col_idx": 1,
+      "coordinate": "A27",
+      "alignment": "left"
+    },
+    "null",
+    {
+      "text": "Monetary financial institutions in the UK other than banks and building societies",
+      "size": 8.0,
+      "row_idx": 27,
+      "col_idx": 3,
+      "coordinate": "C27"
+    },
+    "null",
+    {
+      "text": " ",
+      "size": 8.0,
+      "row_idx": 27,
+      "col_idx": 5,
+      "coordinate": "E27",
+      "bold": true
+    },
+    {
+      "id": "BT\u00a33D",
+      "size": 10.0,
+      "row_idx": 27,
+      "col_idx": 6,
+      "coordinate": "F27",
+      "valignment": "top",
+      "bordertop": "thin",
+      "borderbottom": "thin",
+      "borderleft": "thin",
+      "borderright": "thin"
+    },
+    {
+      "id": "BTE3D",
+      "size": 10.0,
+      "row_idx": 27,
+      "col_idx": 7,
+      "coordinate": "G27",
+      "bordertop": "thin",
+      "borderbottom": "thin",
+      "borderleft": "thin",
+      "borderright": "thin"
+    },
+    {
+      "id": "BTC3D",
+      "size": 10.0,
+      "row_idx": 27,
+      "col_idx": 8,
+      "coordinate": "H27",
+      "bordertop": "thin",
+      "borderbottom": "thin",
+      "borderleft": "thin",
+      "borderright": "thin"
+    },
+    {
+      "text": "3D",
+      "size": 8.0,
+      "row_idx": 27,
+      "col_idx": 9,
+      "coordinate": "I27",
+      "alignment": "left"
+    },
+    "null",
+    "null"
+  ],
+  [
+    {
+      "text": "3E",
+      "size": 8.0,
+      "row_idx": 28,
+      "col_idx": 1,
+      "coordinate": "A28",
+      "alignment": "left"
+    },
+    "null",
+    {
+      "text": "UK central government",
+      "size": 8.0,
+      "row_idx": 28,
+      "col_idx": 3,
+      "coordinate": "C28"
+    },
+    "null",
+    {
+      "text": " ",
+      "size": 8.0,
+      "row_idx": 28,
+      "col_idx": 5,
+      "coordinate": "E28",
+      "bold": true
+    },
+    {
+      "id": "BT\u00a33E",
+      "size": 10.0,
+      "row_idx": 28,
+      "col_idx": 6,
+      "coordinate": "F28",
+      "valignment": "top",
+      "bordertop": "thin",
+      "borderbottom": "thin",
+      "borderleft": "thin",
+      "borderright": "thin"
+    },
+    {
+      "id": "BTE3E",
+      "size": 10.0,
+      "row_idx": 28,
+      "col_idx": 7,
+      "coordinate": "G28",
+      "bordertop": "thin",
+      "borderbottom": "thin",
+      "borderleft": "thin",
+      "borderright": "thin"
+    },
+    {
+      "id": "BTC3E",
+      "size": 10.0,
+      "row_idx": 28,
+      "col_idx": 8,
+      "coordinate": "H28",
+      "bordertop": "thin",
+      "borderbottom": "thin",
+      "borderleft": "thin",
+      "borderright": "thin"
+    },
+    {
+      "text": "3E",
+      "size": 8.0,
+      "row_idx": 28,
+      "col_idx": 9,
+      "coordinate": "I28",
+      "alignment": "left"
+    },
+    "null",
+    "null"
+  ],
+  [
+    {
+      "text": "3F",
+      "size": 8.0,
+      "row_idx": 29,
+      "col_idx": 1,
+      "coordinate": "A29",
+      "alignment": "left"
+    },
+    "null",
+    {
+      "text": "UK local authorities",
+      "size": 8.0,
+      "row_idx": 29,
+      "col_idx": 3,
+      "coordinate": "C29"
+    },
+    "null",
+    {
+      "text": " ",
+      "size": 8.0,
+      "row_idx": 29,
+      "col_idx": 5,
+      "coordinate": "E29",
+      "bold": true
+    },
+    {
+      "id": "BT\u00a33F",
+      "size": 10.0,
+      "row_idx": 29,
+      "col_idx": 6,
+      "coordinate": "F29",
+      "bordertop": "thin",
+      "borderbottom": "thin",
+      "borderleft": "thin",
+      "borderright": "thin"
+    },
+    {
+      "id": "BTE3F",
+      "size": 10.0,
+      "row_idx": 29,
+      "col_idx": 7,
+      "coordinate": "G29",
+      "bordertop": "thin",
+      "borderbottom": "thin",
+      "borderleft": "thin",
+      "borderright": "thin"
+    },
+    {
+      "id": "BTC3F",
+      "size": 10.0,
+      "row_idx": 29,
+      "col_idx": 8,
+      "coordinate": "H29",
+      "bordertop": "thin",
+      "borderbottom": "thin",
+      "borderleft": "thin",
+      "borderright": "thin"
+    },
+    {
+      "text": "3F",
+      "size": 8.0,
+      "row_idx": 29,
+      "col_idx": 9,
+      "coordinate": "I29",
+      "alignment": "left"
+    },
+    "null",
+    "null"
+  ],
+  [
+    {
+      "text": "3G",
+      "size": 8.0,
+      "row_idx": 30,
+      "col_idx": 1,
+      "coordinate": "A30",
+      "alignment": "left"
+    },
+    "null",
+    {
+      "text": "UK public corporations",
+      "size": 8.0,
+      "row_idx": 30,
+      "col_idx": 3,
+      "coordinate": "C30"
+    },
+    "null",
+    {
+      "text": " ",
+      "size": 11.0,
+      "row_idx": 30,
+      "col_idx": 5,
+      "coordinate": "E30"
+    },
+    {
+      "id": "BT\u00a33G",
+      "size": 10.0,
+      "row_idx": 30,
+      "col_idx": 6,
+      "coordinate": "F30",
+      "valignment": "top",
+      "bordertop": "thin",
+      "borderbottom": "thin",
+      "borderleft": "thin",
+      "borderright": "thin"
+    },
+    {
+      "id": "BTE3G",
+      "size": 10.0,
+      "row_idx": 30,
+      "col_idx": 7,
+      "coordinate": "G30",
+      "bordertop": "thin",
+      "borderbottom": "thin",
+      "borderleft": "thin",
+      "borderright": "thin"
+    },
+    {
+      "id": "BTC3G",
+      "size": 10.0,
+      "row_idx": 30,
+      "col_idx": 8,
+      "coordinate": "H30",
+      "bordertop": "thin",
+      "borderbottom": "thin",
+      "borderleft": "thin",
+      "borderright": "thin"
+    },
+    {
+      "text": "3G",
+      "size": 8.0,
+      "row_idx": 30,
+      "col_idx": 9,
+      "coordinate": "I30",
+      "alignment": "left"
+    },
+    "null",
+    "null"
+  ],
+  [
+    {
+      "text": "3H",
+      "size": 8.0,
+      "row_idx": 31,
+      "col_idx": 1,
+      "coordinate": "A31",
+      "alignment": "left"
+    },
+    "null",
+    {
+      "text": "Other UK residents",
+      "size": 8.0,
+      "row_idx": 31,
+      "col_idx": 3,
+      "coordinate": "C31"
+    },
+    "null",
+    {
+      "text": " ",
+      "size": 11.0,
+      "row_idx": 31,
+      "col_idx": 5,
+      "coordinate": "E31"
+    },
+    {
+      "id": "BT\u00a33H",
+      "size": 10.0,
+      "row_idx": 31,
+      "col_idx": 6,
+      "coordinate": "F31",
+      "valignment": "top",
+      "bordertop": "thin",
+      "borderbottom": "thin",
+      "borderleft": "thin",
+      "borderright": "thin"
+    },
+    {
+      "id": "BTE3H",
+      "size": 10.0,
+      "row_idx": 31,
+      "col_idx": 7,
+      "coordinate": "G31",
+      "bordertop": "thin",
+      "borderbottom": "thin",
+      "borderleft": "thin",
+      "borderright": "thin"
+    },
+    {
+      "id": "BTC3H",
+      "size": 10.0,
+      "row_idx": 31,
+      "col_idx": 8,
+      "coordinate": "H31",
+      "bordertop": "thin",
+      "borderbottom": "thin",
+      "borderleft": "thin",
+      "borderright": "thin"
+    },
+    {
+      "text": "3H",
+      "size": 8.0,
+      "row_idx": 31,
+      "col_idx": 9,
+      "coordinate": "I31",
+      "alignment": "left"
+    },
+    "null",
+    "null"
+  ],
+  [
+    {
+      "text": "3HB",
+      "size": 8.0,
+      "row_idx": 32,
+      "col_idx": 1,
+      "coordinate": "A32",
+      "alignment": "left"
+    },
+    "null",
+    {
+      "text": "of which: SAYE and Sharesave contracts",
+      "size": 8.0,
+      "row_idx": 32,
+      "col_idx": 3,
+      "coordinate": "C32",
+      "italics": true,
+      "alignment": "left",
+      "indent": 1.0
+    },
+    "null",
+    {
+      "text": " ",
+      "size": 8.0,
+      "row_idx": 32,
+      "col_idx": 5,
+      "coordinate": "E32",
+      "bold": true
+    },
+    {
+      "id": "BT\u00a33HB",
+      "size": 10.0,
+      "row_idx": 32,
+      "col_idx": 6,
+      "coordinate": "F32",
+      "valignment": "top",
+      "bordertop": "thin",
+      "borderbottom": "thin",
+      "borderleft": "thin",
+      "borderright": "thin"
+    },
+    {
+      "id": "BTE3HB",
+      "size": 10.0,
+      "row_idx": 32,
+      "col_idx": 7,
+      "coordinate": "G32",
+      "bordertop": "thin",
+      "borderbottom": "thin",
+      "borderleft": "thin",
+      "borderright": "thin"
+    },
+    "null",
+    {
+      "text": "3HB",
+      "size": 8.0,
+      "row_idx": 32,
+      "col_idx": 9,
+      "coordinate": "I32",
+      "alignment": "left"
+    },
+    "null",
+    "null"
+  ],
+  [
+    {
+      "text": "3HC",
+      "size": 8.0,
+      "row_idx": 33,
+      "col_idx": 1,
+      "coordinate": "A33",
+      "alignment": "left"
+    },
+    "null",
+    "null",
+    {
+      "text": "        Individual Savings Accounts",
+      "size": 8.0,
+      "row_idx": 33,
+      "col_idx": 4,
+      "coordinate": "D33",
+      "italics": true
+    },
+    {
+      "text": " ",
+      "size": 8.0,
+      "row_idx": 33,
+      "col_idx": 5,
+      "coordinate": "E33",
+      "bold": true
+    },
+    {
+      "id": "BT\u00a33HC",
+      "size": 10.0,
+      "row_idx": 33,
+      "col_idx": 6,
+      "coordinate": "F33",
+      "bordertop": "thin",
+      "borderbottom": "thin",
+      "borderleft": "thin",
+      "borderright": "thin"
+    },
+    {
+      "id": "BTE3HC",
+      "size": 10.0,
+      "row_idx": 33,
+      "col_idx": 7,
+      "coordinate": "G33",
+      "bordertop": "thin",
+      "borderbottom": "thin",
+      "borderleft": "thin",
+      "borderright": "thin"
+    },
+    "null",
+    {
+      "text": "3HC",
+      "size": 8.0,
+      "row_idx": 33,
+      "col_idx": 9,
+      "coordinate": "I33",
+      "alignment": "left"
+    },
+    "null",
+    "null"
+  ],
+  [
+    {
+      "text": "3J",
+      "size": 8.0,
+      "row_idx": 34,
+      "col_idx": 1,
+      "coordinate": "A34",
+      "alignment": "left"
+    },
+    "null",
+    {
+      "text": "Non-residents",
+      "size": 8.0,
+      "row_idx": 34,
+      "col_idx": 3,
+      "coordinate": "C34"
+    },
+    "null",
+    {
+      "text": " ",
+      "size": 8.0,
+      "row_idx": 34,
+      "col_idx": 5,
+      "coordinate": "E34",
+      "bold": true
+    },
+    {
+      "id": "BT\u00a33J",
+      "size": 10.0,
+      "row_idx": 34,
+      "col_idx": 6,
+      "coordinate": "F34",
+      "valignment": "top",
+      "bordertop": "thin",
+      "borderbottom": "thin",
+      "borderleft": "thin",
+      "borderright": "thin"
+    },
+    {
+      "id": "BTE3J",
+      "size": 10.0,
+      "row_idx": 34,
+      "col_idx": 7,
+      "coordinate": "G34",
+      "bordertop": "thin",
+      "borderbottom": "thin",
+      "borderleft": "thin",
+      "borderright": "thin"
+    },
+    {
+      "id": "BTC3J",
+      "size": 10.0,
+      "row_idx": 34,
+      "col_idx": 8,
+      "coordinate": "H34",
+      "borderbottom": "thin",
+      "borderleft": "thin",
+      "borderright": "thin"
+    },
+    {
+      "text": "3J",
+      "size": 8.0,
+      "row_idx": 34,
+      "col_idx": 9,
+      "coordinate": "I34",
+      "alignment": "left"
+    },
+    "null",
+    "null"
+  ]
+]
